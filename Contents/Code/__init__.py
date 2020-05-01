@@ -34,7 +34,7 @@ RE_IMDB_ID = Regex('^tt\d{7}$')
 # This agent falls back to English metadata and sorts out foreign artwork to to ensure the best
 # user experience when less common languages are chosen.
 LANGUAGES = [
-             Locale.Language.English, Locale.Language.Czech, Locale.Language.Danish, Locale.Language.German,
+             Locale.Language.Bulgarian, Locale.Language.English, Locale.Language.Czech, Locale.Language.Danish, Locale.Language.German,
              Locale.Language.Greek, Locale.Language.Spanish, Locale.Language.Finnish, Locale.Language.French,
              Locale.Language.Hebrew, Locale.Language.Croatian, Locale.Language.Hungarian, Locale.Language.Italian,
              Locale.Language.Latvian, Locale.Language.Lithuanian, Locale.Language.Dutch, Locale.Language.Norwegian,
