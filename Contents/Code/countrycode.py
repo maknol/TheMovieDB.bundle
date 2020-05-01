@@ -6,6 +6,7 @@ COUNTRY_TO_CODE = {
   "Belize": "BZ",
   "Bolivia": "BO",
   "Brazil": "BR",
+  "Bulgaria": "BG",
   "Canada": "CA",
   "Chile": "CL",
   "Colombia": "CO",
